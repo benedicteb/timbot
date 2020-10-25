@@ -16,5 +16,8 @@
     "humanize-duration": "^3.23.1",
     "moment": "^2.27.0",
     "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "prettier": "^2.1.2"
   }
 }
