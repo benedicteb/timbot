@@ -4,7 +4,8 @@
   "description": "Discord Tim Bot",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js",
+    "generate-config": "node generate-config.js"
   },
   "author": "",
   "license": "MIT",
